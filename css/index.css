@@ -104,6 +104,13 @@ h1 {
   padding: 20px;
 }
 
+.playground .nama {
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  background: #0788b8;
+}
+
 .playground .display {
   -ms-grid-column: 1;
   -ms-grid-column-span: 4;
